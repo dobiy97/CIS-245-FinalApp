@@ -1,9 +1,8 @@
-# GroceryList
-A very simple grocery and/or scratch list app for Android.
+## Noah Saunders CIS-277 Final App
 
-When I got my first Android device I was dismayed that I couldn't find truely simple way to just jot down a couple things and then mark them completed. Everything I found was either laden with ads, needed to be categorized in to some database, or was implemented with unecessary graphical effects.
+For my final app in CIS-277 I'm going to make a simple Grocery/ Shopping list program.
 
-This application *just* stores a single list of items and allows you to check them off. You can remove individual items, all checked items, or completely empty the list. That's *ALL*. Enjoy! :-)
+### Grocery/ Shopping List
 
-* [Play Store](https://play.google.com/store/apps/details?id=net.sroz.grocerylist2)
-* F-Droid -- [TODO](https://f-droid.org/en/docs/Submitting_to_F-Droid_Quick_Start_Guide/)
+I'm going to make a simple shopping list program that you can use at the grocery store or any other store. Use it to keep track of what items you want to buy and how many you want of each. Also use it to keep track of your budget and the price of each item.
+
